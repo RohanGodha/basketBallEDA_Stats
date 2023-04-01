@@ -16,6 +16,8 @@ pip install seaborn
 
 pip install numpy
 
+pip install lmxl
+
 
 **2. Write the Code**
 
